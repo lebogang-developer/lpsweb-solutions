@@ -54,7 +54,7 @@ const portfolioProjects = [
     cat: "beauty",
     color: "#14B8A6",
     icon: "🦴",
-    desc: "Modern beauty shop, wig store and booking form.",
+    desc: "Modern beauty WooCommerce shop, wig store and booking form.",
   },
   {
     id: 8,
