@@ -696,7 +696,13 @@ nav.scrolled {
 
 /* ─── FINAL CTA ─── */
 .final-cta {
-  background: linear-gradient(135deg, var(--blue) 0%, #1e40af 100%);
+  background:
+    linear-gradient(
+      135deg,
+      rgba(30, 64, 175, 0.8) 0%,
+      rgba(30, 64, 175, 0.9) 100%
+    ),
+    url("./images/team-1.jpg") no-repeat center/cover;
   padding: 96px 0;
   text-align: center;
   position: relative;
